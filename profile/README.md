@@ -1,4 +1,4 @@
-## INFRASTRUCTURE AND AI AGENTS FEATURES FOR WEB3 
+## INFRASTRUCTURE AND AI AGENT FEATURES FOR WEB3 
 
 
 📝 All our public repositories are released under the MIT License. Feel free to clone, modify and ship the code with your ideas.´<br />
